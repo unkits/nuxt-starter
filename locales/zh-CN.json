@@ -1,0 +1,12 @@
+{
+  "site.meta.og.title": "分享标题",
+  "site.meta.og.description": "分享描述",
+  "site.meta.title": "website",
+  "site.meta.keywords": "网站关键词",
+  "site.meta.description": "网站描述",
+  "site.title.index": "site",
+  "site.common.theme.option[0]": "系统",
+  "site.common.theme.title": "主题",
+  "site.common.locale.title": "语言",
+  "site.common.locale.switch": "切换到"
+}

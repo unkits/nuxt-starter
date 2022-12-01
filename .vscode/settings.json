@@ -1,0 +1,12 @@
+{
+  // "prettier.enable": false,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "i18n-ally.displayLanguage": "zh-CN",
+  "i18n-ally.editor.preferEditor": true,
+  "i18n-ally.extract.autoDetect": true,
+  "i18n-ally.localesPaths": ["locales"],
+  "i18n-ally.keystyle": "flat"
+}

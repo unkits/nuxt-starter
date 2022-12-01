@@ -1,0 +1,12 @@
+{
+  "site.meta.description": "website description",
+  "site.meta.keywords": "Website keywords",
+  "site.meta.title": "website",
+  "site.meta.og.description": "share description",
+  "site.meta.og.title": "share title",
+  "site.title.index": "site",
+  "site.common.theme.title": "Color mode",
+  "site.common.theme.option[0]": "System",
+  "site.common.locale.title": "language",
+  "site.common.locale.switch": "switch to"
+}
